@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# TypeScript config
+tsconfig.json
+tsconfig.tsbuildinfo
+
+# Logs
+*.log
+logs/
+
+# .env files (if sensitive data is stored in them)
+.env
+.env.local
+.env.*.local
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# npm package lock file (if you want to ignore the lock file, but generally you should commit it)
+package-lock.json
+yarn.lock
+
+# IDE/editor settings (e.g., VSCode, WebStorm, etc.)
+.vscode/
+.idea/
+
+# Jest test coverage reports
+coverage/
+
+# Temporary files
+*.swp
+*.swo

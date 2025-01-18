@@ -1,0 +1,9 @@
+# Ignore source files (TypeScript files)
+src/
+*.ts
+
+# Ignore test files
+tests/
+
+# Ignore build artifacts
+dist/
