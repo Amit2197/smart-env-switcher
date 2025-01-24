@@ -171,6 +171,3 @@ Contributions are welcome! Feel free to submit issues or pull requests on the [G
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-```vbnet
-This raw structure ensures clarity and professionalism. Let me know if further refinements are needed!
-```

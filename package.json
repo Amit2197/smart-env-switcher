@@ -1,6 +1,6 @@
 {
   "name": "smart-env-switcher",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "SmartEnvSwitcher is a lightweight Node.js library for managing environment variables across multiple environments, such as development, staging, and production. It simplifies the process of switching between environments and updating `.env` files programmatically.",
   "main": "dist/src/SmartEnvSwitcher.js",
   "types": "dist/SmartEnvSwitcher.d.ts",
@@ -32,7 +32,7 @@
   "bugs": {
     "url": "https://github.com/amit2197/smart-env-switcher/issues"
   },
-  "homepage": "https://devamit.in/smart-env-switcher",
+  "homepage": "https://devamit.in/packages/smart-env-switcher",
   "files": [
     "dist/src/SmartEnvSwitcher.js",
     "dist/SmartEnvSwitcher.d.ts",
